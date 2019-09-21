@@ -30,3 +30,4 @@ C:\Users\justi\source\repos\SportsStore\SportsStore\obj\Debug\netcoreapp2.2\Spor
 C:\Users\justi\source\repos\SportsStore\SportsStore\bin\Debug\netcoreapp2.2\libman.json
 C:\Users\justi\source\repos\SportsStore\SportsStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\ProductSummary.cshtml.g.cs
 C:\Users\justi\source\repos\SportsStore\SportsStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\justi\source\repos\SportsStore\SportsStore\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.cshtml.g.cs
